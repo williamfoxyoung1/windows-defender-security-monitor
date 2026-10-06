@@ -35,6 +35,8 @@ Watch the monitor detect Microsoft Defender configuration changes and exclusions
 
 [![Watch the Demo](https://img.youtube.com/vi/DZkmz_VppfU/maxresdefault.jpg)](https://www.youtube.com/watch?v=DZkmz_VppfU)
 
+**Click the image above to watch the real-time detection demo on YouTube.**
+
 ## Run
 
 Open **PowerShell as Administrator**:
