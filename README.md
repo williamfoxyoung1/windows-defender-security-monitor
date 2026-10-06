@@ -33,7 +33,7 @@ If the current Defender configuration deviates from the trusted baseline, the mo
 
 Watch the monitor detect Microsoft Defender configuration changes and exclusions in real time.
 
-[![Watch the Demo](https://img.youtube.com/vi/DZkmz_VppfU/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=DZkmz_VppfU))
+[![Watch the Demo](https://img.youtube.com/vi/DZkmz_VppfU/maxresdefault.jpg)](https://www.youtube.com/watch?v=DZkmz_VppfU)
 
 ## Run
 
